@@ -1,0 +1,17 @@
+# Introduction
+- Basic computer science
+- Language and vocabulary
+  - C programming language
+- Assembly
+- Programming experience
+- UNIX experience
+- Toolchain
+  - Compiler
+  - Assembler
+  - Linker
+  - Make utility
+- Emulators and visualizers
+  - Virtual machine
+- Executable formats
+- The platform
+- The concept
